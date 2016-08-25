@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="3915aa9c-1d03-46ba-b7c4-2ccfe9b722e5" name="cozycorner.gr" url="http://93.174.121.172">
-        <fileTransfer host="93.174.121.172" port="21" rootFolder="/public_html/website" username="cozycorner">
+        <fileTransfer host="93.174.121.172" port="21" rootFolder="/public_html/website">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -13,7 +13,7 @@
         <fileTransfer accessType="LOCAL" />
       </webServer>
       <webServer id="84cc2392-69da-48b8-8505-0f7e1d09085f" name="newgoldenhall.gr" url="http://93.174.121.59">
-        <fileTransfer host="93.174.121.59" port="21" rootFolder="/public_html" username="newgh">
+        <fileTransfer host="93.174.121.59" port="21" rootFolder="/public_html">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -21,7 +21,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="9eb56e5d-612d-44a5-a2cb-61a8415de144" name="athensreviewofbooks.com @artified" url="http://93.174.121.172/~athensreview/">
-        <fileTransfer host="93.174.121.172" port="21" rootFolder="/public_html" username="athensreview">
+        <fileTransfer host="93.174.121.172" port="21" rootFolder="/public_html">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -29,5 +29,8 @@
         </fileTransfer>
       </webServer>
     </option>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>AAAA8FhAuczd9XZS55AmYH0ILEKN+gP6DZwUpU63ecOKOd0JLhTxo5dGSxveENMpz9/MzzGQnq8E9SN+FoQPDKzWK+ZoAq2kBcvM88nwjtmiFAICXPnjnc31lEzuXN8+9Vo1eG3AOXifTpbdNDAX04Ruv7LTfy/fdiBLQ6+PvRCtAC+AKXgB5BkPcPyagn5Bl2ubB10gCHGUpINpQ8mSpXx30FhO77jY8Z8Zs0sFH3DAgWet0s34xKzrlTO1jLBW5yRIrLTURY1Tb0gzkhVLkGUzhEJyPz/ehiZz036KAvx+Wwq8XYX1/AjxHDz4GQoX2KBwHOY6e8uBbNuSQJEzpAQq/Jg=</data>
   </component>
 </application>
