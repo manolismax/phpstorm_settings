@@ -28,9 +28,17 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="55a1dee9-7a2e-44dd-b3e1-9bfd5f06f2dd" name="nafpliomarathon.gr @artifiedweb" url="http://93.174.121.172/~nafpliomarathon/">
+        <fileTransfer host="93.174.121.172" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAAA8Bq9BwcVj4GB0F0VDRVqX0XrN4fNEzGdJbuti9RsDSj7VOvmomN8e1LZVLmyJQmNhEd3DMjwSSCfWJymdbMZKyAz7vFN3ZvYsHzWgl4UfUrnOotKa5WxCTKVziVVHNtt+aFBLG4dtetyv0qmfRmObzrXcI52H+b0D7/m0wdY25feJX6xC77gR9PBOMp+2zmD5kKRfuVYVvyC3Zal5ZbnuGCdQFppyu63fYvLKqAjKWYoTrrJKmMUQ1Lubrf8aEJ1nYRG8Jx44CC+VoYoBhmH9yvaUF1X7N90qz2JJ4luCBPehqpPjE8+Fq8SzkEfycCQnUORIWgXu9XjEGfm9fw6hQ4=</data>
+    <data>AAABMNBCe4JntNmM89Y0phmEFT5xiI/6lsid3ZrGKzL9NqJFx47mtHakpAVgo3cpu9F/nYFKTzjnvndloU+8tsdJ5Fr4JyalVHaId3cT1cDTq9lFwtT9Le2+SfcScVLlDlwLeeaQoH51u8F8U1Cd9N4Ime51zS/hPn4tRa3RpfGH7R1yYrP9alFMPPZCs0p2Lk2Z0CzLiFNP/3nMB42RK3+NfXHjMPaF2tj4s4hETp5Xpauc2amizXQbLLOlsVssJlTH+X6wcIB522z38yQ0Qpo2trWtKCBTUiYsCGgXUxYWE8KTMzO4ramfi71/5lj2OwGU3UiAt07m5OUpH6VpO+zJYOAoQqo7ezBI5tnfZoEWgdLQlPZCD13LFjalYHgOXqLWw7F0MLwmtAXOtGuFTWXiP0Bi7HROsisMHHb1lwhwn1IN</data>
   </component>
 </application>
