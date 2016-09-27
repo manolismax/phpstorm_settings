@@ -6,6 +6,7 @@
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
+          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="8c99c378-2bca-491d-9cfe-2986a7ed9f51" name="mgmtennis @ puphpet" url="http://mgm.dev">
@@ -16,6 +17,7 @@
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
+          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="9eb56e5d-612d-44a5-a2cb-61a8415de144" name="athensreviewofbooks.com @artified" url="http://93.174.121.172/~athensreview/">
@@ -23,6 +25,7 @@
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
+          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="55a1dee9-7a2e-44dd-b3e1-9bfd5f06f2dd" name="nafpliomarathon.gr @artifiedweb" url="http://93.174.121.172/~nafpliomarathon/">
@@ -30,11 +33,12 @@
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
+          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAABMKuMk34IK9EXs2SRmXxTpx45jsUFWOKan6QY8gMBKAMxlhIsiPqXsb7EmiivTl9Fb2tuX7SHhcXUTPVlpVpqy8TDJuXoTzi2NcVf/6nTzfkPmrqOS2IO+U22I3PkZZgM+rFhyB8YFXgL/x1c8e75hK52ClkXzRkN+pa/2BcWIqDrFCSOzJR1vki6qe7j9Wu0uvhcvCpFPGGqB0eeT5kIbbT8pQOaxwS0uBZAptQyFl/XPKJ9WV2AizG7SkJ8ows0BNd2Y/f2R3m4NhmAAAVeetBkf46SWMOiJrFiZpXnJkvqKvpNQejukvNNZceHNpDwse2AcPrBtiPS5bMR/0OcnGuvbrxMhSJFyMVY3RjnXgee6txYhirfvNdYmof2bwC9D1bmMg/zkYWhW+n3yk1uchH7VQhRcf6s2O39YTsJS9kK</data>
+    <data>AAABMM4gmJe0D9FDHsbNlbvLcsh+/nNF1rCJ3S9+MIgA5YyEhfw7ymVuUkFdvC2RuKJYpaBQLdOiRJ8uLsIIolpHHI5LrT0x0TJHRdV4VnTw1HAQcp8RZtbo9xc3V6hWerPXnP2XY9GX5rTi8XMC1iFv08yn2xWCpvt3lkBgZbc+AvRFPFSHVaGVv+469QgTce0i0dZnbsLLAKcLwV25yEjt1SlvSZF+pd5dZZ494UIvNSdp3fL9pxM8KkSBpf6xXAZ+P24i8I4lJf3CN4vaZIkCnFfoGdgVHNJY+8s68KQYfp/1DIGnuGYmCIuJYAXmYx/I58awOsTqVBi6uV7+ihyQfyBjVnt99nunDTNUsLz+nVCWwNcTD1boIw8dtNwroa0jKMG36NcSGcVkX2eY9Jq+f1Xcb+VS93oeur2oUndPXd7+</data>
   </component>
 </application>
