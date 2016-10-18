@@ -6,6 +6,7 @@
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
+          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="8c99c378-2bca-491d-9cfe-2986a7ed9f51" name="mgmtennis @ puphpet" url="http://mgm.dev">
@@ -16,6 +17,7 @@
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
+          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="9eb56e5d-612d-44a5-a2cb-61a8415de144" name="athensreviewofbooks.com @artified" url="http://93.174.121.172/~athensreview/">
@@ -23,6 +25,7 @@
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
+          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="55a1dee9-7a2e-44dd-b3e1-9bfd5f06f2dd" name="nafpliomarathon.gr @artifiedweb" url="http://93.174.121.172/~nafpliomarathon/">
@@ -30,11 +33,12 @@
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
+          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAABMN9/vOfi4M3OkqaSWGwXxLqKalc0SB4+jfVW1byN46QDqdqOnudQSDqzSDpMhs2iqnBxp9X9yfrUEmlnqjbAM8dxmyIwlEyrbQ+ZJvfAwfL2+kyecIVnpGE9VUgdk77DHOuqFy0ZHEzCkSsBJhtBAkaDD7tavhVFUeJl272/xrq8OtD5z5yCCO/4D1nwpV2lInLC4xgKiBDtAShPlkM/Ky+FVLjaXThEaRHt+OW6gaVV1m3EPO21srhmWOpScfou3OZ1+c628D/zlRuLIFNA8ZG7Gd+a2xHRK0G4fG609ags07kUJilirPCgjj8VIIUexcb2lqf1p1Lbpkp3+RuBExEBNHL14O2FajdFlGLkA1vsy7/2JtOOBfrju2LgImcK0esf+fLzJSSKlKX/rnXoDtqHjkuBiDdJt6DISSFiLnkC</data>
+    <data>AAABMLF5qxcFrb9PVqVL+FkjZReMaL3dUNnmW1p1lDAJ1HCrSehybch+d2t+30PA4RORUsoApHUWI1tHai8859C0toOxUgQ0wmhrGERIQbqniD1RITwvY/wF9B3/B5zH5OtG7VMEC785DhZIQtz/UluM31IFc3s3nn7G5oJ3X3YhQbcpd5C4fuuXrkbUcxYorAyaeLRTsT8MGZ9V8lsmVC7VRJ6IiNkaYqqlUdtMikVV+G+Frr1tQ7qgEUbNICBzDO9IWExnf7LELZOaw4sRtVrHiv8d3T1MzQceCEvxWBDN42ZBjuzcjR+uSt4EJl/J95Wcs9npC/x/qspb9RTkzoQ0yGd+4XQuVMZ0IkJGCMlVMC5rg0nKzdj+uNwj+bAjWVwregQ0znDB/h+Pl+qSFKFPrgWXqn6xgZ46b7CnSu0TQ9M7</data>
   </component>
 </application>
