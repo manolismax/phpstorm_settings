@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="16">
     <extensionMap>
       <mapping ext="bak" type="PHP" />
       <mapping pattern="error_log" type="PLAIN_TEXT" />
