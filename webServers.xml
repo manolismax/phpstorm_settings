@@ -36,12 +36,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="c628aeda-e69d-4a36-8fb6-3ae297e008a9" name="aw_purse @ homestead" url="http://aw_purse.dev">
-        <fileTransfer port="0" accessType="LOCAL" />
+      <webServer id="fd8510d5-8735-4c0d-af99-ad85bbb6c15a" name="yiorgosdepollas.com" url="http://yiorgosdepollas.com">
+        <fileTransfer host="yiorgosdepollas.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
       </webServer>
     </option>
-  </component>
-  <component name="webServersAuthStorage">
-    <data>AAABMIabV1oygQtc3PmO9dRcLZia1KVO/LbyajSP7F+8x+Q94UrvsGtv17frY83DCp6ZEADrTcyf1lRLEgkeZZHjFgeEaaI++sroiE0E3QBC5EwV8zfXxq4dF+dFV0KZw4cLDQaygksmrmYotvr4V7ZmzCUVXxOlQ3oeja/HH6XnDqhDxtXcwawIJBZdyL9DD8ybZBv8PSoyxUk6E18TVI9xFOEtuDoElIS9OEvxw7aKwT4pD3vw5+od3rwM1qBW6upZjkvJ9AvcRwg3w7A94XEdsUu/P1qQzeutrQB/1X83dlc3/iEp9KL5p/xu3jleOZPp5AwevlaKbyLR+YnA39HJ4mlgBKTHcvaWznNjfUgsZ1+Bvmy21r2ehEVw5mVMT4bPORH/zk6VtjbhezwrNmtp03hWYUhFoswIsBV6FvxmSBVm</data>
   </component>
 </application>
