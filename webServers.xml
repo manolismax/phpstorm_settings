@@ -6,7 +6,6 @@
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="8c99c378-2bca-491d-9cfe-2986a7ed9f51" name="mgmtennis @ puphpet" url="http://mgm.dev">
@@ -17,7 +16,6 @@
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="9eb56e5d-612d-44a5-a2cb-61a8415de144" name="athensreviewofbooks.com @artified" url="http://93.174.121.172/~athensreview/">
@@ -25,7 +23,6 @@
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="55a1dee9-7a2e-44dd-b3e1-9bfd5f06f2dd" name="nafpliomarathon.gr @artifiedweb" url="http://93.174.121.172/~nafpliomarathon/">
@@ -33,7 +30,6 @@
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="fd8510d5-8735-4c0d-af99-ad85bbb6c15a" name="yiorgosdepollas.com" url="http://yiorgosdepollas.com">
@@ -41,7 +37,6 @@
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
     </option>
