@@ -28,8 +28,8 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="55a1dee9-7a2e-44dd-b3e1-9bfd5f06f2dd" name="nafpliomarathon.gr @artifiedweb" url="http://93.174.121.172/~nafpliomarathon/">
-        <fileTransfer host="93.174.121.172" port="21" rootFolder="/public_html">
+      <webServer id="55a1dee9-7a2e-44dd-b3e1-9bfd5f06f2dd" name="nafpliomarathon.gr @artifiedweb" url="http://185.78.220.44/~nafpliomarathon/">
+        <fileTransfer host="185.78.220.44" port="21" rootFolder="/public_html">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
