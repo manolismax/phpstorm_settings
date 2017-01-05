@@ -1,8 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="3915aa9c-1d03-46ba-b7c4-2ccfe9b722e5" name="cozycorner.gr" url="http://93.174.121.172">
-        <fileTransfer host="93.174.121.172" port="21" rootFolder="/public_html/website">
+      <webServer id="3915aa9c-1d03-46ba-b7c4-2ccfe9b722e5" name="cozycorner.gr" url="https://www.cosycorner.gr/">
+        <fileTransfer host="185.78.220.44" port="21" rootFolder="/public_html">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -20,8 +20,8 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="9eb56e5d-612d-44a5-a2cb-61a8415de144" name="athensreviewofbooks.com @artified" url="http://93.174.121.172/~athensreview/">
-        <fileTransfer host="93.174.121.172" port="21" rootFolder="/public_html">
+      <webServer id="9eb56e5d-612d-44a5-a2cb-61a8415de144" name="athensreviewofbooks.com @artified" url="http://185.78.220.44/~athensreview/">
+        <fileTransfer host="185.78.220.44" port="21" rootFolder="/public_html">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
