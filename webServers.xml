@@ -1,14 +1,6 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="3915aa9c-1d03-46ba-b7c4-2ccfe9b722e5" name="cozycorner.gr" url="https://www.cosycorner.gr/">
-        <fileTransfer host="185.78.220.44" port="21" rootFolder="/public_html">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
       <webServer id="8c99c378-2bca-491d-9cfe-2986a7ed9f51" name="mgmtennis @ puphpet" url="http://mgm.dev">
         <fileTransfer accessType="LOCAL" />
       </webServer>
