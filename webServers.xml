@@ -1,6 +1,14 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="60bface6-bf94-4575-bced-3de2e1701e2f" name="themallathens.gr #contest" url="http://themallathens.gr/contest">
+        <fileTransfer host="themallathens.gr" port="21" rootFolder="/public_html/contest">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
       <webServer id="8c99c378-2bca-491d-9cfe-2986a7ed9f51" name="mgmtennis @ puphpet" url="http://mgm.dev">
         <fileTransfer accessType="LOCAL" />
       </webServer>
