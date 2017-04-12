@@ -1,6 +1,14 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="aefd44f6-eedb-4715-afe6-75e5851630da" name="kalantzis @ intra" url="http://192.168.2.200">
+        <fileTransfer host="192.168.2.200" port="21" rootFolder="/home/kalantzis">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
       <webServer id="60bface6-bf94-4575-bced-3de2e1701e2f" name="themallathens.gr" url="http://themallathens.gr">
         <fileTransfer host="themallathens.gr" port="21">
           <advancedOptions>
