@@ -28,6 +28,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="6cf7c158-cc29-44ac-9783-18a48606ca60" name="mules.gr" url="http://mules.gr">
+        <fileTransfer host="192.168.2.200" port="21" rootFolder="/home/mules">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
