@@ -1,6 +1,14 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="60bface6-bf94-4575-bced-3de2e1701e2f" name="themallathens.gr" url="http://themallathens.gr">
+        <fileTransfer host="themallathens.gr" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
       <webServer id="8c99c378-2bca-491d-9cfe-2986a7ed9f51" name="mgmtennis @ puphpet" url="http://mgm.dev">
         <fileTransfer accessType="LOCAL" />
       </webServer>
@@ -16,6 +24,14 @@
         <fileTransfer host="185.78.220.44" port="21" rootFolder="/public_html">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" maxConnections="2" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="6cf7c158-cc29-44ac-9783-18a48606ca60" name="mules.gr" url="http://mules.gr">
+        <fileTransfer host="192.168.2.200" port="21" rootFolder="/home/mules">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" showHiddenFiles="true" />
           </advancedOptions>
           <option name="port" value="21" />
         </fileTransfer>
