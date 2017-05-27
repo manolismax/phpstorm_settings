@@ -515,6 +515,35 @@
         <option name="BACKGROUND" value="33362e" />
       </value>
     </option>
+    <option name="JSON.INVALID_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="27bc0" />
+        <option name="BACKGROUND" value="ffcccc" />
+      </value>
+    </option>
+    <option name="JSON.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="27bc0" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JSON.NUMBER">
+      <value>
+        <option name="FOREGROUND" value="27bc0" />
+      </value>
+    </option>
+    <option name="JSON.PROPERTY_KEY">
+      <value>
+        <option name="FOREGROUND" value="fb660a" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JSON.STRING">
+      <value>
+        <option name="FOREGROUND" value="27bc0" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="JSP_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="ae81ff" />
