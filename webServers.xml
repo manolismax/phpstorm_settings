@@ -1,7 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="80c14f60-1d6f-4239-babd-b9bd3ac3827b" name="app.brainy.gr" url="http://95.129.46.88">
+      <webServer id="80c14f60-1d6f-4239-babd-b9bd3ac3827b" name="brainy.gr" url="http://95.129.46.88">
         <fileTransfer host="95.129.46.88" port="22" rootFolder="/home" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
