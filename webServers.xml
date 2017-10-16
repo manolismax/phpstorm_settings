@@ -1,6 +1,14 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="80c14f60-1d6f-4239-babd-b9bd3ac3827b" name="brainy.gr" url="http://95.129.46.88">
+        <fileTransfer host="95.129.46.88" port="22" rootFolder="/home" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
       <webServer id="48d0a916-fb84-4e7b-a050-11aa92706197" name="gargaropoulos.gr" url="http://gargaropoulos.gr">
         <fileTransfer host="gargaropoulos.gr" port="21">
           <advancedOptions>
