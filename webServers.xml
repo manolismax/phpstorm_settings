@@ -60,6 +60,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="68f0b3bf-f4cd-4363-adbf-d9c6c84ffda2" name="races.local" url="http://races.local">
+        <fileTransfer host="192.168.2.200" port="21" rootFolder="/home/races">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" showHiddenFiles="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
