@@ -68,6 +68,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="322a6d2c-f71c-496e-b853-1464e642cc85" name="wirebuzz.local" url="http://races.local">
+        <fileTransfer host="192.168.2.200" port="21" rootFolder="/home/wirebuzz">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" showHiddenFiles="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
