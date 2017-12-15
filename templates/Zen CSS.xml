@@ -1,0 +1,7 @@
+<templateSet group="Zen CSS">
+  <template name="flex-center" value=" display: -webkit-box;&#10; display: -webkit-flex;&#10; display: -moz-box;&#10; display: -ms-flexbox;&#10; display: flex;&#10; -webkit-box-pack:center;&#10; -webkit-justify-content:center;&#10; -moz-box-pack:center;&#10; -ms-flex-pack:center;&#10; justify-content:center;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+</templateSet>
