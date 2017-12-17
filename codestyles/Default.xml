@@ -1,4 +1,9 @@
 <code_scheme name="Default" version="173">
+  <CssCodeStyleSettings>
+    <option name="HEX_COLOR_LOWER_CASE" value="true" />
+    <option name="HEX_COLOR_SHORT_FORMAT" value="true" />
+    <option name="BLANK_LINES_BETWEEN_BLOCKS" value="0" />
+  </CssCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
     <option name="LOWER_CASE_NULL_CONST" value="true" />
