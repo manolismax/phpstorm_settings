@@ -1,11 +1,46 @@
 <profile version="1.0">
   <option name="myName" value="Default" />
   <inspection_tool class="CssMissingSemicolon" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="PhpClassNamingConventionInspection" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="PhpFunctionNamingConventionInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="PhpClassNamingConventionInspection" enabled="true" level="TYPO" enabled_by_default="true">
+    <option name="m_minLength" value="2" />
+    <option name="m_maxLength" value="50" />
+  </inspection_tool>
+  <inspection_tool class="PhpConstantNamingConventionInspection" enabled="false" level="TYPO" enabled_by_default="false" />
+  <inspection_tool class="PhpDivisionByZeroInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="PhpFunctionNamingConventionInspection" enabled="true" level="TYPO" enabled_by_default="true">
+    <option name="m_regex" value="[a-z][A-Za-z\d]*" />
+    <option name="m_minLength" value="2" />
+    <option name="m_maxLength" value="50" />
+  </inspection_tool>
   <inspection_tool class="PhpIllegalPsrClassPathInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="PhpMethodNamingConventionInspection" enabled="true" level="TYPO" enabled_by_default="true">
+    <option name="m_minLength" value="2" />
+    <option name="m_maxLength" value="50" />
+  </inspection_tool>
+  <inspection_tool class="PhpPropertyNamingConventionInspection" enabled="true" level="TYPO" enabled_by_default="true">
+    <option name="m_minLength" value="2" />
+    <option name="m_maxLength" value="50" />
+  </inspection_tool>
   <inspection_tool class="PhpShortOpenTagInspection" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="PhpVariableNamingConventionInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="PhpUndefinedCallbackInspection" enabled="false" level="INFORMATION" enabled_by_default="false" />
+  <inspection_tool class="PhpUndefinedClassConstantInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+  <inspection_tool class="PhpUndefinedClassInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+  <inspection_tool class="PhpUndefinedConstantInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+  <inspection_tool class="PhpUndefinedFieldInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+  <inspection_tool class="PhpUndefinedFunctionInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+  <inspection_tool class="PhpUndefinedGotoLabelInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+  <inspection_tool class="PhpUndefinedMethodInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+  <inspection_tool class="PhpUndefinedNamespaceInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+  <inspection_tool class="PhpUndefinedVariableInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+  <inspection_tool class="PhpUnitUndefinedDataProviderInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+  <inspection_tool class="PhpUnusedAliasInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="PhpUnusedLocalVariableInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="PhpUnusedParameterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="PhpUnusedPrivateFieldInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="PhpUnusedPrivateMethodInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="PhpVariableNamingConventionInspection" enabled="true" level="TYPO" enabled_by_default="true">
+    <option name="m_minLength" value="2" />
+  </inspection_tool>
   <inspection_tool class="Stylelint" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="W3CssValidation" enabled="false" level="WEAK WARNING" enabled_by_default="false">
     <option name="myCssVersion" value="css3" />
