@@ -1,10 +1,11 @@
 <scheme name="Max's edition" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="LINE_SPACING" value="1.5" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_NAME" value="Consolas" />
   <colors>
     <option name="CARET_COLOR" value="f8f8f0" />
     <option name="CARET_ROW_COLOR" value="3b3c32" />
@@ -20,7 +21,7 @@
     <option name="LINE_NUMBERS_COLOR" value="90918b" />
     <option name="RIGHT_MARGIN_COLOR" value="333333" />
     <option name="SELECTED_TEARLINE_COLOR" value="c0c0c0" />
-    <option name="SELECTION_BACKGROUND" value="2c3028" />
+    <option name="SELECTION_BACKGROUND" value="172f79" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="736f5c" />
     <option name="TEARLINE_COLOR" value="c0c0c0" />
