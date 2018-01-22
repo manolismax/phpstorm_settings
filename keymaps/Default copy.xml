@@ -1,4 +1,7 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="PhpNewClass">
+    <keyboard-shortcut first-keystroke="shift ctrl alt p" />
+  </action>
   <action id="PublishGroup.SyncLocalVsRemoteWith">
     <keyboard-shortcut first-keystroke="shift ctrl x" />
   </action>
