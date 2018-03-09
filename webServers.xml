@@ -84,6 +84,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="0b2cca73-eac4-4c90-aa64-e8607fc77ebd" name="half-marathon.raceregistration.gr" url="http://raceregistration.gr">
+        <fileTransfer host="raceregistration.gr" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
