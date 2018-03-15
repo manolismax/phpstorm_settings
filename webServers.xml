@@ -1,6 +1,14 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="fcca3bb4-54e4-4174-9827-afd6e22d9487" name="KohlsPayments (1)" url="http://payments.kohls-rentals.com">
+        <fileTransfer host="kohls-rentals.com" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
       <webServer id="46bbffcf-73fe-4cd1-90ff-4ba7289e6c77" name="crete-marathon.gr" url="http://crete-marathon.gr">
         <fileTransfer host="crete-marathon.gr" port="21" rootFolder="/public_html">
           <advancedOptions>
