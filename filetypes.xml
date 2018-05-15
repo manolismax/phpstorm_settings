@@ -8,7 +8,6 @@
       <mapping pattern="hxe6ELiAS6TIsRSiifvxqoxmXvVEUYguc6XuZ5Bq" type="PLAIN_TEXT" />
       <mapping pattern="1zyeZuvN0esuNfm6Bj4jdW1X5ZZKlZ6B6lHr54ww" type="PLAIN_TEXT" />
       <mapping pattern="error_log" type="PLAIN_TEXT" />
-      <mapping pattern=".bash_logout" type="PLAIN_TEXT" />
       <mapping pattern=".maintenance.ip" type="PLAIN_TEXT" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping pattern=".maintenance.flag" type="PLAIN_TEXT" />
