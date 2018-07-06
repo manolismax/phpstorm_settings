@@ -100,6 +100,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="1f197ed4-0cf5-492d-b81a-4de1dcb35bc6" name="neasmirnihistoricrun.raceregistration.gr" url="http://raceregistration.gr">
+        <fileTransfer host="raceregistration.gr" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
