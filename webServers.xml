@@ -1,6 +1,22 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="fcca3bb4-54e4-4174-9827-afd6e22d9487" name="KohlsPayments (1)" url="http://payments.kohls-rentals.com">
+        <fileTransfer host="kohls-rentals.com" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="46bbffcf-73fe-4cd1-90ff-4ba7289e6c77" name="crete-marathon.gr" url="http://crete-marathon.gr">
+        <fileTransfer host="crete-marathon.gr" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
       <webServer id="80c14f60-1d6f-4239-babd-b9bd3ac3827b" name="brainy.gr" url="http://95.129.46.88">
         <fileTransfer host="95.129.46.88" port="22" rootFolder="/home" accessType="SFTP">
           <advancedOptions>
@@ -36,7 +52,7 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="55a1dee9-7a2e-44dd-b3e1-9bfd5f06f2dd" name="nafpliomarathon.gr @artifiedweb" url="http://185.78.220.44/~nafpliomarathon/">
+      <webServer id="55a1dee9-7a2e-44dd-b3e1-9bfd5f06f2dd" name="nafpliomarathon.gr" url="http://185.78.220.44/~nafpliomarathon/">
         <fileTransfer host="185.78.220.44" port="21" rootFolder="/public_html">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" maxConnections="2" />
@@ -64,6 +80,30 @@
         <fileTransfer host="192.168.2.200" port="21" rootFolder="/home/races">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" showHiddenFiles="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="322a6d2c-f71c-496e-b853-1464e642cc85" name="wirebuzz.local" url="http://races.local">
+        <fileTransfer host="192.168.2.200" port="21" rootFolder="/home/wirebuzz">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" showHiddenFiles="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="0b2cca73-eac4-4c90-aa64-e8607fc77ebd" name="half-marathon.raceregistration.gr" url="http://raceregistration.gr">
+        <fileTransfer host="raceregistration.gr" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="1f197ed4-0cf5-492d-b81a-4de1dcb35bc6" name="neasmirnihistoricrun.raceregistration.gr" url="http://raceregistration.gr">
+        <fileTransfer host="raceregistration.gr" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
           <option name="port" value="21" />
         </fileTransfer>
