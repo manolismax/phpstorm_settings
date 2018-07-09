@@ -108,6 +108,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="54f5ec1d-6fb0-4d89-bdc7-71f07f56073a" name="racemanager.gr" url="http://racemanager.gr">
+        <fileTransfer host="racemanager.gr" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
