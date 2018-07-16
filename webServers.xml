@@ -33,12 +33,12 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="b6189441-c138-40f7-86a2-65c2d4ed17ad" name="artifiedweb.com" url="http://95.129.46.88">
-        <fileTransfer host="95.129.46.88" port="22" accessType="SFTP">
+      <webServer id="b6189441-c138-40f7-86a2-65c2d4ed17ad" name="artifiedweb.com" url="http://artifiedweb.com">
+        <fileTransfer host="artifiedweb.com" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="22" />
+          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="0b2cca73-eac4-4c90-aa64-e8607fc77ebd" name="half-marathon.raceregistration.gr" url="http://raceregistration.gr">
