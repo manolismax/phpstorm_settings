@@ -1,9 +1,12 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.1.5.3" />
+    <option name="version" value="2.7.2" />
     <option name="highlightColor" value="80cbc4" />
     <option name="highlightThickness" value="0" />
     <option name="isContrastMode" value="true" />
     <option name="accentColor" value="80cbc4" />
+    <option name="userId" value="6311e75f:1651f963cdd:-7fff" />
+    <option name="allowDataCollection" value="true" />
+    <option name="isWizardShown" value="true" />
   </component>
 </application>
