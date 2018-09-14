@@ -1,0 +1,7 @@
+<templateSet group="AwCss">
+  <template name="awFlex" value="display: -webkit-box;&#10;display: -ms-flexbox;&#10;display: flex;" description="flex" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+    </context>
+  </template>
+</templateSet>
