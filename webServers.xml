@@ -17,14 +17,6 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="48d0a916-fb84-4e7b-a050-11aa92706197" name="gargaropoulos.gr" url="http://gargaropoulos.gr">
-        <fileTransfer host="gargaropoulos.gr" port="21">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
       <webServer id="55a1dee9-7a2e-44dd-b3e1-9bfd5f06f2dd" name="nafpliomarathon.gr" url="http://185.78.220.44/~nafpliomarathon/">
         <fileTransfer host="185.78.220.44" port="21" rootFolder="/public_html">
           <advancedOptions>
