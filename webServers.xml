@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="46bbffcf-73fe-4cd1-90ff-4ba7289e6c77" name="crete-marathon.gr" url="http://crete-marathon.gr">
-        <fileTransfer host="crete-marathon.gr" port="21" rootFolder="/public_html">
+        <fileTransfer host="crete-marathon.gr" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
