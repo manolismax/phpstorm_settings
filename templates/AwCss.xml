@@ -4,11 +4,4 @@
       <option name="CSS_DECLARATION_BLOCK" value="true" />
     </context>
   </template>
-  <template name="awJustifyContentSpaceBetween" value="-webkit-box-pack: justify;&#10;-ms-flex-pack: justify;&#10;justify-content: space-between;" description="justify-content: space-between" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="CSS" value="true" />
-      <option name="CSS_PROPERTY_VALUE" value="false" />
-      <option name="CSS_RULESET_LIST" value="false" />
-    </context>
-  </template>
 </templateSet>
