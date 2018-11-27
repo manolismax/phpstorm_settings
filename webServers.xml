@@ -57,6 +57,22 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="7222bb48-183c-4486-821f-276f8c515a61" name="Virtual Magento" url="https://vmag.artifiedweb.com:10000">
+        <fileTransfer host="185.78.221.178" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
+    <groups>
+      <group>
+        <name>AW Servers</name>
+        <servers>
+          <name value="Virtual Magento" />
+        </servers>
+      </group>
+    </groups>
   </component>
 </application>
