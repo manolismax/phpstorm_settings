@@ -65,12 +65,21 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="049a9cd9-675a-4927-8b2c-f356677097b8" name="AW dedicated" url="https://dedicated.artifiedweb.com:2087">
+        <fileTransfer host="185.78.220.44" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
     <groups>
       <group>
         <name>AW Servers</name>
         <servers>
           <name value="Virtual Magento" />
+          <name value="AW dedicated" />
         </servers>
       </group>
     </groups>
