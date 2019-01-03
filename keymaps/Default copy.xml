@@ -5,5 +5,7 @@
   <action id="PublishGroup.SyncLocalVsRemoteWith">
     <keyboard-shortcut first-keystroke="shift ctrl x" />
   </action>
-  <action id="com.jetbrains.php.framework.FrameworkRunConsoleAction" />
+  <action id="com.jetbrains.php.framework.FrameworkRunConsoleAction">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
 </keymap>
