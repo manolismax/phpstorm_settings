@@ -1,6 +1,14 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="0880f123-3812-4b90-a119-4a06a076b9bf" name="goldenhall.gr" url="http://goldenhall.gr">
+        <fileTransfer host="goldenhall.gr" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
       <webServer id="46bbffcf-73fe-4cd1-90ff-4ba7289e6c77" name="crete-marathon.gr" url="http://crete-marathon.gr">
         <fileTransfer host="crete-marathon.gr" port="21">
           <advancedOptions>
