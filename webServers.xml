@@ -81,6 +81,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="ec6f5610-2eee-468b-84be-6cb349f0ed37" name="webartified.com" url="http://webartified.com">
+        <fileTransfer host="webartified.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
     <groups>
       <group>
