@@ -1,5 +1,5 @@
 <templateSet group="PHP">
-  <template name="awprintr" value="if ($_SERVER['REMOTE_ADDR'] == '62.38.193.63' || $_SERVER['REMOTE_ADDR'] == '192.168.2.104') {&#10;   echo '&lt;pre style=&quot;float: left; width: 100%&quot;&gt;';&#10;   print_r();&#10;   echo '&lt;/pre&gt;';&#10;}" description="print_r with ip" toReformat="false" toShortenFQNames="true">
+  <template name="awprintr" value="if ($_SERVER['REMOTE_ADDR'] == '62.38.193.63' || $_SERVER['REMOTE_ADDR'] == '192.168.2.104') {&#10;    echo '&lt;pre style=&quot;float: left; width: 100%&quot;&gt;';&#10;    print_r();&#10;    echo '&lt;/pre&gt;';&#10;}" description="print_r with ip" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>
