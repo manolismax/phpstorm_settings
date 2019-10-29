@@ -89,6 +89,9 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="dde374d2-d071-40b0-9de4-950198afd9d2" name="Codmin @ Laragon" url="http://codmin.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
     <groups>
       <group>
