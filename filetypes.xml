@@ -14,6 +14,7 @@
       <mapping pattern=".editconfig" type="PLAIN_TEXT" />
       <mapping pattern="1zyeZuvN0esuNfm6Bj4jdW1X5ZZKlZ6B6lHr54ww" type="PLAIN_TEXT" />
       <mapping pattern=".maintenance.ip" type="PLAIN_TEXT" />
+      <mapping pattern="error_logfile" type="PLAIN_TEXT" />
       <mapping pattern=".maintenance.flag" type="PLAIN_TEXT" />
       <mapping ext="ca" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
