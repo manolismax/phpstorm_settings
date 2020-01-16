@@ -26,10 +26,25 @@
       <properties>
         <sourceFilesUrls>
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_filepond_dist_filepond.css" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_filepond_dist_filepond.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_filepond_dist_filepond.css" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_filepond_dist_filepond.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="filepond-plugin-image-preview" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_filepond-plugin-image-preview_dist_filepond-plugin-image-preview.css" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_filepond-plugin-image-preview_dist_filepond-plugin-image-preview.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_filepond-plugin-image-preview_dist_filepond-plugin-image-preview.css" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_filepond-plugin-image-preview_dist_filepond-plugin-image-preview.js" />
       </CLASSES>
       <SOURCES />
     </library>
