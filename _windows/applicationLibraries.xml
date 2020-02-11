@@ -114,6 +114,19 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="gijgo" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_gijgo@1.9.13_css_gijgo.css" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_gijgo@1.9.13_js_gijgo.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_gijgo@1.9.13_css_gijgo.css" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_gijgo@1.9.13_js_gijgo.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="TextPlugin" type="javaScript">
       <properties>
         <sourceFilesUrls>
