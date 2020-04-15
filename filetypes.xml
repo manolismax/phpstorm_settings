@@ -8,22 +8,22 @@
       <mapping pattern="aNq4IHvblivnJGKqYMYtcljlM9x2IeJ84A4YYU4H" type="PLAIN_TEXT" />
       <mapping pattern="error_log" type="PLAIN_TEXT" />
       <mapping pattern="payments" type="PLAIN_TEXT" />
-      <mapping pattern="_breadcrumbs.blade.php" type="PLAIN_TEXT" />
+      <mapping pattern=".maintenance.ip" type="PLAIN_TEXT" />
       <mapping pattern="hxe6ELiAS6TIsRSiifvxqoxmXvVEUYguc6XuZ5Bq" type="PLAIN_TEXT" />
       <mapping pattern=".bashrc" type="PLAIN_TEXT" />
       <mapping pattern=".editconfig" type="PLAIN_TEXT" />
       <mapping pattern="1zyeZuvN0esuNfm6Bj4jdW1X5ZZKlZ6B6lHr54ww" type="PLAIN_TEXT" />
-      <mapping pattern=".maintenance.ip" type="PLAIN_TEXT" />
+      <mapping pattern="_breadcrumbs.blade.php" type="PLAIN_TEXT" />
       <mapping pattern="error_logfile" type="PLAIN_TEXT" />
       <mapping pattern=".maintenance.flag" type="PLAIN_TEXT" />
       <mapping ext="ca" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="cert" type="PLAIN_TEXT" />
-      <mapping ext="sublime-workspace" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="sublime-workspace" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".gitattributes" approved="true" type="PLAIN_TEXT" />
