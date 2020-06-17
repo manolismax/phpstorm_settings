@@ -4,7 +4,7 @@
       <sshConfig authType="PASSWORD" host="95.129.46.88" id="a65433ae-7383-407a-96c5-4724339b17de" port="22" customName="brainy.gr" nameFormat="CUSTOM" username="root" />
       <sshConfig authType="PASSWORD" host="185.78.221.178" id="ada3349e-764d-4039-98e5-1c33bb07479f" port="22" customName="Virtual Magento" nameFormat="CUSTOM" username="root" />
       <sshConfig authType="PASSWORD" host="185.78.220.44" id="015d672e-2e23-40f9-a7a6-164edc635d5e" port="22" customName="AW dedicated" nameFormat="CUSTOM" username="root" />
-      <sshConfig authType="PASSWORD" host="185.78.220.44" id="d9a9203e-a24f-44bb-9985-09e0bf17121a" port="22" customName="AW dedicated" nameFormat="CUSTOM" username="root" />
+      <sshConfig authType="PASSWORD" host="185.78.220.44" id="0c6f2a65-2775-4bf7-867a-ec1aaf7f6dd8" port="22" customName="AW dedicated" nameFormat="CUSTOM" username="root" />
     </configs>
   </component>
 </application>
