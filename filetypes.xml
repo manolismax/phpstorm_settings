@@ -4,8 +4,8 @@
       <mapping ext="bak" type="PHP" />
       <mapping pattern="error_logfile" type="PLAIN_TEXT" />
       <mapping pattern="payments" type="PLAIN_TEXT" />
-      <mapping pattern=".bashrc" type="PLAIN_TEXT" />
       <mapping pattern=".editconfig" type="PLAIN_TEXT" />
+      <mapping pattern=".bashrc" type="PLAIN_TEXT" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping pattern="1zyeZuvN0esuNfm6Bj4jdW1X5ZZKlZ6B6lHr54ww" type="PLAIN_TEXT" />
       <mapping pattern="KFKrIp1kimv6tVZqssz71DzSRF0UoaBdxswFivZf" type="PLAIN_TEXT" />
