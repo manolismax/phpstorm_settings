@@ -1,11 +1,8 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="contrastMode" value="true" />
-    <option name="allowDataCollection" value="true" />
-    <option name="isContrastMode" value="true" />
-    <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
     <option name="accentColor" value="009688" />
-    <option name="userId" value="-5b632e77:16b60dc1dba:-8000" />
+    <option name="userId" value="-5b1225f0:1733e1fc844:-8000" />
     <option name="version" value="5.2.0" />
   </component>
 </application>
