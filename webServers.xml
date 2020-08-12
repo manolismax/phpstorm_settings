@@ -1,7 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="f41fb61a-21a2-4fdf-9bfe-36fb38eea1bc" name="brainy">
+      <webServer id="f41fb61a-21a2-4fdf-9bfe-36fb38eea1bc" name="brainy" url="https://vrmbrain.brainy.gr:10000/">
         <fileTransfer rootFolder="/home" accessType="SFTP" host="95.129.46.88" port="22" sshConfigId="b37cd5f1-38d6-4a7d-af0d-679f00bcf9c3" sshConfig="root@95.129.46.88:22 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
